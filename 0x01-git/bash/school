@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-=======
->>>>>>> update_script
-echo "The school is open!"
+echo "School"
